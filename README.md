@@ -57,7 +57,7 @@ The project was tested virtually using:
 
 SimulIDE was used to simulate the circuit and Microchip Studio was used to write, test, and debug the code.
 
-## Project Purpose
+## Project Goal
 
-The purpose of this project is to demonstrate how digital and analog inputs can be combined with embedded control logic to manage multiple outputs and explore the interaction between switches, sensors, PWM, and microcontroller peripherals.
+The goal of this project is to demonstrate how digital and analog inputs can be combined with embedded control logic to manage multiple outputs and explore the interaction between switches, sensors, PWM, and microcontroller peripherals.
 
