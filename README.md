@@ -36,13 +36,14 @@ The system uses **three push switches** and a **potentiometer** to control the b
 
 ## Tech Stack
 
-* Embedded C
+* Embedded C/C++
 * AVR
 * ATmega328P
 * ADC
 * PWM
 * External Interrupts
 * Timers
+* Circuit Design & Hardware Integration
 * Microchip Studio
 * SimulIDE
 
